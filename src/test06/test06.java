@@ -10,6 +10,9 @@ public class test06 {
 		// TODO Auto-generated method stub
 		System.out.println("我来了");
 		System.out.println("我来了02");
+		System.out.println("我来了021");
+		System.out.println("我来了03");
+		System.out.println("我来了04");
 	}
 
 }
